@@ -45,6 +45,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color);
 }
+.list-styles > [href="portfolio.html"] {
+  color: var(--highlight-color);
+}
 .header-address-links {
   font-weight: 500;
   line-height: 1.14;
