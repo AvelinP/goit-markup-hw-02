@@ -76,6 +76,7 @@ body {
   background: #f5f4fa;
   border-radius: 4px;
   cursor: pointer;
+  border: none;
 }
 .main-section-buttons:hover {
   font-weight: 500;
